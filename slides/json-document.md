@@ -3,7 +3,7 @@
 ```
 var doc = {
   event: "BrumJS",
-  type: "conference",
-  date: "2015-10-15"
+  type: "meetup",
+  date: "2016-09-22"
 }
 ```
