@@ -4,7 +4,7 @@ Create
 ```
 db.bulkDocs(docs, [options], [callback]);
 db.bulkDocs([
-  {event: "Hackference"}, {event : "ffconf"}, etc
+  {event: "InterConnect"}, {event : "Impact"}, etc
 ], function(err, response) {
   if (err) { return console.log(err); }
   // handle result

@@ -2,8 +2,8 @@
 
 ```
 var doc = {
-  event: "BrumJS",
-  type: "meetup",
+  event: "World of Watson",
+  type: "conference",
   date: "2016-09-22"
 }
 ```

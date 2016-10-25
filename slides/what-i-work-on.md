@@ -1,1 +1,1 @@
-![The Stack](images/tech-2.png)
+![The Stack](images/tech-3.png)
