@@ -1,9 +1,8 @@
 [
-    "index.html",
     {
-        "filename": "notice.md",
+        "filename": "blank.md",
         "attr": {
-            "id": "notice"
+            "data-background": "images/WOW-page-001.jpg"
         }
     },
     {
@@ -14,39 +13,17 @@
     },
     [
         "where-i-work.html",
-        {
-            "filename": "what-i-work-on.md",
-            "attr": {
-                "data-background": "#3B4B54"
-            }
-        },
-        {
-            "filename": "blank.md",
-            "attr": {
-                "data-background": "images/monkey-typewriter.gif"
-            }
-        },
-        {
-            "filename": "blank.md",
-            "attr": {
-                "data-background": "images/ponder.gif"
-            }
-        },
-        {
-            "filename": "blank.md",
-            "attr": {
-                "data-background": "images/headdesk.gif"
-            }
-        }
+        "what-i-work-on.md"
     ],
     {
         "filename": "blank.md",
         "attr": {
-            "data-background": "images/no-service.gif"
+            "data-background": "images/test-card.png"
         }
     },
     "offline-webapps.md",
     "2nd-class.md",
+    "progressive-web-apps.md",
     {
         "filename": "3-parts-of-offline-webapps.html",
         "attr": {
@@ -66,64 +43,24 @@
         "httpsdevelopermozillaorgendocswebapiwindowlocalstorage.md"
     ],
     "web-sql-indexed-db.md",
-    {
-        "filename": "blank.md",
-        "attr": {
-            "data-background": "images/emma-thumbs-up.gif"
-        }
-    },
+    "thumbs-up.html",
     "sql-in-the-browser.md",
     "sql-in-the-browser-kinda.md",
     "transactional-datastore-thats-relational.md",
     "browser-compatibility.html",
     "desktop-compatibility.html",
     "mobile-compatibility.html",
-    {
-        "filename": "blank.md",
-        "attr": {
-            "data-background": "images/hiddles-sad-times.gif"
-        }
-    },
+    "emoji-neutral.html",
     "api-differences.md",
-    {
-        "filename": "blank.md",
-        "attr": {
-            "data-background": "images/box-rolling.gif"
-        }
-    },
-    {
-        "filename": "blank.md",
-        "attr": {
-            "data-background": "images/magnifying-glass.gif"
-        }
-    },
-    {
-        "filename": "blank.md",
-        "attr": {
-            "data-background": "images/abstract-loop.gif"
-        }
-    },
-    {
-        "filename": "blank.md",
-        "attr": {
-            "data-background": "images/one-nail.gif"
-        }
-    },
-    {
-        "filename": "blank.md",
-        "attr": {
-            "data-background": "images/exhausted-leonard.gif"
-        }
-    },
+    "roll-your-own.html",
+    "magnifying-glass.html",
+    "loop.html",
+    "sync.html",
+    "exhausted.html",
     "another-way.md",
     "the-other-ways.md",
     "the-pouchdb-way.md",
-    {
-        "filename": "blank.md",
-        "attr": {
-            "data-background": "images/lego-awesome.gif"
-        }
-    },
+    "awesome.html",
     "so-whats-special.md",
     "in-browser-client.md",
     "local-database-on-leveldb.md",
@@ -147,21 +84,15 @@
     "sync.md",
     "magic-bit.md",
     "cloudant.md",
-    {
-        "filename": "blank.md",
-        "attr": {
-            "data-background": "images/sherlock-dont-know.gif"
-        }
-    },
+    "emoji-neutral.html",
     "couchdb.md",
+    "architecture.md",
+    "example.md",
+    "round-up.md",
     {
         "filename": "blank.md",
         "attr": {
-            "data-background": "images/spidey-danger.gif"
+            "data-background": "images/WOW-page-002.jpg"
         }
-    },
-    "codez.md",
-    "round-up.md",
-    "questions.md",
-    "hackference.md"
+    }
 ]
